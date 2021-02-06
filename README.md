@@ -1,2 +1,4 @@
-# qrcodecreator
-A NodeJs QR code creator
+## QR Code Generator
+
+run "npm i"
+then run "npm start"
