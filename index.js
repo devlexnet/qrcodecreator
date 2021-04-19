@@ -25,4 +25,4 @@ app.get("/", (req, res) => res.sendFile(__dirname + "/client/index.html"));
 app.use("/client", express.static(__dirname + "/client"));
 
 serv.listen(port);
-console.log(`'${__filename}' listening at http://localhost:${port}`);
+console.log(`'${__filename}' listening at ${port}`);
