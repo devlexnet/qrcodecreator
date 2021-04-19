@@ -1,4 +1,26 @@
 ## QR Code Generator
 
-run "npm i"
-then run "npm start"
+# Run the following code in node environment to start the application
+
+#####
+
+# 1.
+
+    npm i
+
+# 2.
+
+    npm start
+
+#####
+
+## Made by
+
+# Devlex
+
+#
+
+- visit us at
+  Https://devlex.net
+
+#####
