@@ -1,6 +1,4 @@
-# QR Code Generator
-
-## Run the following code in node environment to start the application
+# QR Code Generator POC
 
 #####
 
@@ -14,13 +12,3 @@
 
 #####
 
-## Made by
-
-# Devlex
-
-#
-
-- visit us at
-  https://devlex.net
-
-#####
